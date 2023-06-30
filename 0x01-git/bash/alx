@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "ALX"
+root@0f18515be4ea:~/alx-pre_course/0x01-git/bash# ls
